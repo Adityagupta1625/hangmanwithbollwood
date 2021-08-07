@@ -6,4 +6,4 @@
 <li>Random module</li>
 </ul>
 <h3> Installation: </h3>
-<p>You need to instal the python on your system first after that You can use it by using gitclone: </p>
+<p>You need to instal the python on your system first after that You can use it by using gitclone: https://github.com/Adityagupta1625/hangmanwithbollwood.git</p>
